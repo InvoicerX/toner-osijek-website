@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://invoicerx.github.io/toner-osijek-website/sitemap.xml
